@@ -7,8 +7,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/remytr/Data_Analyst_Portfolio/blob/main/README.md#about)
-- [Education]
-- [Portfolio Projects]
+- [Education](https://github.com/remytr/Data_Analyst_Portfolio/blob/main/README.md#education)
+- [Portfolio Projects](https://github.com/remytr/Data_Analyst_Portfolio/blob/main/README.md#portfolio-projects)
 
 ## Education
 Imperial College London - MRes Medical Device Design and Entrepreneurship
