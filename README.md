@@ -17,5 +17,5 @@ King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
 ### E-commerce Inventory Analysis
-**Project** [Dashboard providing analysis on which inventory to re-stock for an e-commerce business in the UK] (https://github.com/remytr/Ecommerce_Products)
+**Project** ['Dashboard providing analysis on which inventory to re-stock for an e-commerce business in the UK'] (https://github.com/remytr/Ecommerce_Products)
 
