@@ -6,12 +6,13 @@ Hi! I'm Remy and I'm currently working towards a boot camp in data analysis/data
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About]
+- [About](https://github.com/remytr/Data_Analyst_Portfolio/blob/main/README.md#about)
 - [Education]
 - [Portfolio Projects]
 
 ## Education
 Imperial College London - MRes Medical Device Design and Entrepreneurship
+
 King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
