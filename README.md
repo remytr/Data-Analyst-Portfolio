@@ -16,6 +16,15 @@ Imperial College London - MRes Medical Device Design and Entrepreneurship
 King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
+### [Travel Agency Bookings](https://github.com/remytr/Travel_Agency_Bookings)
+**Project:** Case study on a travel agency experiencing huge growth in mobile bookings.
+
+**Goals:**
+
+**Descriptions:**
+
+**Results:**
+
 ### [E-commerce Inventory Analysis](https://github.com/remytr/Ecommerce_Products)
 **Project:** Dashboard providing analysis on which inventory to re-stock for an e-commerce business in the UK.
 
