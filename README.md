@@ -16,6 +16,15 @@ Imperial College London - MRes Medical Device Design and Entrepreneurship
 King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
+### [Data Driven Strategies to Reignite Growth in eCommerce](https://github.com/remytr/Travel_Agency_Bookings)
+**Project:** Unlocking Prism's Potential.
+
+**Goals:**
+
+**Descriptions:**
+
+**Results:**
+
 ### [Travel Agency Bookings](https://github.com/remytr/Travel_Agency_Bookings)
 **Project:** Case study on a travel agency experiencing huge growth in mobile bookings.
 
