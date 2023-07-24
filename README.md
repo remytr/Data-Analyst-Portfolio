@@ -49,10 +49,8 @@ Americans are booking the most trips out of any country and are primarily travel
 **Results:** Based on the analysis, I recommended that Men's Bib Shorts (sizes S and M) and Women's Tights (sizes S and L), should be the products that should have a drastic increase in inventory to maximise profit.
 
 ### [COVID Data Analysis](https://github.com/remytr/COVID_Analysis)
-**Project:**
+**Project:** COVID data visualisation dashboard.
 
-**Goals:**
+**Goals:** To analyse COVID data by cases per country, deaths, and COVID tests conducted.
 
-**Descriptions:**
-
-**Results:**
+**Results:** See [data visualisation](https://github.com/remytr/COVID_Analysis/blob/main/Covid%20Statistics.pdf) here.
