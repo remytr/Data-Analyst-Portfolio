@@ -1,4 +1,4 @@
-# Data Analyst Portfolio - Remy Tran
+# Data Analyst Portfolio
 ## About
 
 Hi! I'm Remy and I'm currently working on a boot camp in data analysis/data science in London. I have an analytical background in engineering.
