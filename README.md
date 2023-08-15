@@ -16,6 +16,12 @@ Imperial College London - MRes Medical Device Design and Entrepreneurship
 King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
+### [Are loyalty programs effective](https://github.com/remytr/Are-loyalty-programs-effective)
+
+### [Deciphering Market Attribution for Optimal Strategy](https://github.com/remytr/Deciphering-Market-Attribution-for-Optimal-Strategy)
+
+### [Has marketing spend paid off](https://github.com/remytr/Has-marketing-spend-paid-off-)
+
 ### [Prism Customer Segmentation](https://github.com/remytr/Prism-Customer-Segmentation)
 **Project:** Improve conversion rate through targeted marketing by customer segmentation.
 
