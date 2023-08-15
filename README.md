@@ -17,8 +17,9 @@ King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
 ### [Prism Customer Segmentation](https://github.com/remytr/Prism-Customer-Segmentation)
-**Project:**
-
+**Project:** Improve conversion rate through targeted marketing by customer segmentation.
+**Goals:** Conduct RFM analysis to create customer segments for an e-commerce company.
+**Results:** Created and split customers into 6 customer segments. Provided insights and recommendations to improve number of customers opting in, retention rate, and conversion rate.
 
 ### [Data Driven Strategies to Reignite Growth in eCommerce](https://github.com/remytr/Data-Driven-Strategies-to-Reignite-Growth-in-eCommerce)
 **Project:** Unlocking Prism's Potential.
