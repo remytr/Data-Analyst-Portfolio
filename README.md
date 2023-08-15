@@ -17,10 +17,13 @@ King's College London - BEng Biomedical Engineering
 
 ## Portfolio Projects
 ### [Are loyalty programs effective](https://github.com/remytr/Are-loyalty-programs-effective)
+**Project:** Evaluated the effectiveness of a pilot loyalty program for an e-commerce company. Make recommendations on Prism+ loyalty program.
 
 ### [Deciphering Market Attribution for Optimal Strategy](https://github.com/remytr/Deciphering-Market-Attribution-for-Optimal-Strategy)
+**Project:** Should a company invest in paid or organic media? How to attribute marketing channels? Deeper dive on whether investment for paid advertising has paid off?
 
 ### [Has marketing spend paid off](https://github.com/remytr/Has-marketing-spend-paid-off-)
+**Project:** FP&A analysts flagged a sharp increase in marketing spend. Analysed metrics to see if the marketing spend has paid off.
 
 ### [Prism Customer Segmentation](https://github.com/remytr/Prism-Customer-Segmentation)
 **Project:** Improve conversion rate through targeted marketing by customer segmentation.
